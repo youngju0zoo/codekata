@@ -9,6 +9,6 @@ public class Main {
     // two.java : 두 수의 곱 구하기
     // three.java : 두 수의 몫 구하기
     // four.java : 나이 출력
-    // five.java : 숫자 비교하기
+    // five.java : 숫자 비교하기, 두 수의 합, 두 수의 나눗셈
 
 }
