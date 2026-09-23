@@ -12,5 +12,6 @@ public class Main {
     // five.java : 숫자 비교하기, 두 수의 합, 두 수의 나눗셈
     // six.java : 각도기
     // seven.java : 짝수의 합
+    // eight.java : 배열의 평균값
 
 }
