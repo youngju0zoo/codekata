@@ -14,5 +14,6 @@ public class Main {
     // seven.java : 짝수의 합
     // eight.java : 배열의 평균값
     // nine.java : 짝수와 홀수
+    // ten.java : 평균 구하기
 
 }
