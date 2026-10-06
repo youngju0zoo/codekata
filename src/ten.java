@@ -1,6 +1,7 @@
 public class ten {
-}
-class Solution {
+    public static void main(String[] args) {
+    }
+    class Solution {
     public double solution(int[] arr) {
 
         double sum = 0;
@@ -10,4 +11,5 @@ class Solution {
         double answer = sum/arr.length;
         return answer;
     }
+}
 }

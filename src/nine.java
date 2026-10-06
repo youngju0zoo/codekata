@@ -1,14 +1,15 @@
 public class nine {
-}
-class Solution {
-    public String solution(int num) {
-        String answer = "";
-        if(num % 2 == 0){
-            answer="Even";
+    public static void main(String[] args) {
+    }
+    class Solution {
+        public String solution(int num) {
+            String answer = "";
+            if (num % 2 == 0) {
+                answer = "Even";
+            } else {
+                answer = "Odd";
+            }
+            return answer;
         }
-        else{
-            answer="Odd";
-        }
-        return answer;
     }
 }
