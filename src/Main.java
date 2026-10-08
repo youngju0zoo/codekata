@@ -17,5 +17,6 @@ public class Main {
     // ten.java : 평균 구하기
     // eleven.java : 자릿수 더하기
     // twelve.java : 약수의 합
-    // thirteen.java : 나머지가 1이 되는 수 찾기
+    // Thirteen.java : 나머지가 1이 되는 수 찾기
+    // Fourteen.java : x만큼 간격이 있는 n개의 숫자
 }
