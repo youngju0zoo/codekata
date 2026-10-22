@@ -1,3 +1,5 @@
+package one;
+
 public class Fifteen {
     public static void main(String[] args) {
     }

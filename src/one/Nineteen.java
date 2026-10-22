@@ -1,3 +1,5 @@
+package one;
+
 public class Nineteen {
     class Solution {
         class Solution {
