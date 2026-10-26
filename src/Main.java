@@ -26,4 +26,5 @@ public class Main {
     // one.Nineteen.java : 두 정수 사이의 합
     // one.Twenty : 콜라츠 추측
     // two.One : 서울에서 김서방 찾기
+    // two.two : 나누어 떨어지는 숫자 배열
 }
